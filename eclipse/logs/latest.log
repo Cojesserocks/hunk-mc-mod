@@ -1,0 +1,42 @@
+[10:12:18] [main/INFO]: Setting user: Player846
+[10:12:19] [Client thread/INFO]: LWJGL Version: 2.9.1
+[10:12:25] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Example Mod
+[10:12:25] [Sound Library Loader/INFO]: Sound engine started
+[10:12:26] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[10:12:26] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[10:12:26] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Example Mod
+[10:12:26] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[10:12:26] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[10:12:27] [Sound Library Loader/INFO]: Sound engine started
+[10:12:59] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[10:12:59] [Server thread/INFO]: Generating keypair
+[10:13:00] [Server thread/INFO]: Converting map!
+[10:13:00] [Server thread/INFO]: Scanning folders...
+[10:13:00] [Server thread/INFO]: Total conversion count is 0
+[10:13:00] [Server thread/INFO]: Preparing start region for level 0
+[10:13:01] [Server thread/INFO]: Changing view distance to 12, from 10
+[10:13:01] [Server thread/INFO]: Player846[local:E:e57e62c6] logged in with entity id 21 at (-1562.5, 4.0, -664.5)
+[10:13:01] [Server thread/INFO]: Player846 joined the game
+[10:13:04] [Server thread/INFO]: Player846 has just earned the achievement [Taking Inventory]
+[10:13:04] [Client thread/INFO]: [CHAT] Player846 has just earned the achievement [Taking Inventory]
+[10:13:08] [Client thread/INFO]: [CHAT] Unknown command. Try /help for a list of commands
+[10:13:48] [Server thread/INFO]: Saving and pausing game...
+[10:13:48] [Server thread/INFO]: Saving chunks for level 'Test'/Overworld
+[10:13:48] [Server thread/INFO]: Saving chunks for level 'Test'/Nether
+[10:13:48] [Server thread/INFO]: Saving chunks for level 'Test'/The End
+[10:13:52] [Server thread/INFO]: Saving and pausing game...
+[10:13:52] [Server thread/INFO]: Saving chunks for level 'Test'/Overworld
+[10:13:52] [Server thread/INFO]: Saving chunks for level 'Test'/Nether
+[10:13:52] [Server thread/INFO]: Saving chunks for level 'Test'/The End
+[10:14:09] [Server thread/INFO]: Saving and pausing game...
+[10:14:09] [Server thread/INFO]: Saving chunks for level 'Test'/Overworld
+[10:14:09] [Server thread/INFO]: Saving chunks for level 'Test'/Nether
+[10:14:09] [Server thread/INFO]: Saving chunks for level 'Test'/The End
+[10:17:37] [Server thread/INFO]: Saving and pausing game...
+[10:17:37] [Server thread/INFO]: Saving chunks for level 'Test'/Overworld
+[10:17:37] [Server thread/INFO]: Saving chunks for level 'Test'/Nether
+[10:17:37] [Server thread/INFO]: Saving chunks for level 'Test'/The End
+[10:20:17] [Server thread/INFO]: Saving and pausing game...
+[10:20:17] [Server thread/INFO]: Saving chunks for level 'Test'/Overworld
+[10:20:17] [Server thread/INFO]: Saving chunks for level 'Test'/Nether
+[10:20:17] [Server thread/INFO]: Saving chunks for level 'Test'/The End
